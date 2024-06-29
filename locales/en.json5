@@ -1,0 +1,9 @@
+{
+  common: {
+    // Cool, we can use comments here!
+    hello: "Hello, {name}!",
+    create: "Create",
+    save: "Save",
+    next: "Next",
+  },
+}

@@ -1,0 +1,15 @@
+html {
+  overflow: hidden;
+  height: 100%;
+}
+
+* {
+  font-family: "Inter";
+}
+
+body {
+  height: 100%;
+  overflow: auto;
+  --color-primary: 245 171 0;
+  --text-primary: 255 255 255;
+}
